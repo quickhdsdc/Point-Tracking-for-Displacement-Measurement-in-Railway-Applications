@@ -4,3 +4,5 @@ This is a repository of our paper "Deep Learning Based Virtual Point Tracking fo
 The paper and code have been significantly revised. A preprint version can be found at https://www.researchgate.net/publication/348589285_REVISED_--_Deep_Learning_based_Virtual_Point_Tracking_for_Real-Time_Target-less_Dynamic_Displacement_Measurement_in_Railway_Applications.
 
 The used pytorch version is 1.9. The used data for training and evaluation are available at https://depositonce.tu-berlin.de/handle/11303/13437.
+
+The trained models can be found in https://drive.google.com/file/d/16HyueRS9gvILne2Ta_wYHxClG_ujQhm4/view?usp=sharing
